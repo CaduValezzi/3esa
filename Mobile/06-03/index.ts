@@ -69,3 +69,22 @@ function processarResposta(resposta: RespostaServidor): void {
 processarResposta("Dados processados com sucesso!");
 processarResposta(true);
 processarResposta(false);
+
+// Exercício 6 - Intersection Types EstudanteTrabalhador
+
+type Estudante = {
+    nome: string;
+    curso: string;
+};
+type Trabalhador = {
+    empresa: string;
+    cargo: string;
+};
+type EstudanteTrabalhador = Estudante & Trabalhador;
+const estudanteTrabalhador: EstudanteTrabalhador = {
+    nome: "Carlos",
+    curso: "Engenharia de Software",
+    empresa: "Tech Corp",
+    cargo: "Desenvolvedor Júnior"
+};
+console.log("Estudante Trabalhador:", estudanteTrabalhador);

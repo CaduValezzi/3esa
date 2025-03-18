@@ -5,3 +5,10 @@ interface Carro {
     ano : number;
     motor?: string;
 }
+
+const carro1: Carro = {
+    marca: "Ford",
+    modelo: "Ka",
+    ano: 2008,
+    motor: "firefly"
+};

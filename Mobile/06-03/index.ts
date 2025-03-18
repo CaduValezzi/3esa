@@ -12,3 +12,5 @@ const carro1: Carro = {
     ano: 2008,
     motor: "firefly"
 };
+
+console.log("Carro 1:", carro1);

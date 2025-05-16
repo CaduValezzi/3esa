@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30a8006b-d5ed-4406-a636-77e1495fa7d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Checkpoint/.idea/Checkpoint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Winery.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/.idea/Consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/WineOrderClient/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/WineOrderClient/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/WineOrderClient/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/WineOrderClient/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/WineOrderClient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/WineOrderClient/src/main/java/br/com/fiap/winery/ApplicationClient2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mobile/20-03/marcacaoDeConsultasMedicas" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Mobile/20-03/marcacaoDeConsultasMedicas" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2x9seMMq9ent08NJFcKwB18EVue" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-graalvm-jdk-17.0.10-3183f394aec4-6e2c94c7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30a8006b-d5ed-4406-a636-77e1495fa7d1" name="Changes" comment="" />
+      <created>1747361717522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747361717522</updated>
+    </task>
+    <servers />
+  </component>
+</project>
